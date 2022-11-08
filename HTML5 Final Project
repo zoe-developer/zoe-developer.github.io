@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head><meta charset="UTF-8"></head>
+<header>
+    <h1>Zoé Dujardin</h1>
+</header>
+<nav>
+    <a href="http://coursera.com/" target="_blank">One</a>
+    <a href="https://www.si.umich.edu/" target="_blank">Two</a>
+    <a href="https://www.google.com/" target="_blank">Three</a>
+    <a href="https://github.com/" target="_blank">GitHub</a>
+</nav>
+</html>
